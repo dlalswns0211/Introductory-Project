@@ -3,3 +3,4 @@
 조원: 송원우, 이민준, 채지인, 김수임, 김규열
 도메인: Commerce
 주제:
+python version: 3.14
